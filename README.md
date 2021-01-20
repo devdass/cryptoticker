@@ -1,5 +1,7 @@
 # cryptoticker
-This is a project I had done in December 2017 during the Bitcoin bull run. A number of crypto miners and investors had expressed interested in my work, asking me if they could buy their own. I had intended to develop the project into a product, but I was quite busy with Uni work, and the market became apathetic post-crash. I have since decided to make my code publically available. I have also made some modifications and cut it down quite a bit in an effort to make it more understandable - I have not uploaded these changes yet, but I will soon.
+This is a project I had done in December 2017 during the Bitcoin bull run. It pulls live price data from the Poloniex cryptocurrency exchange and displays them on a LED matrix display using a Raspberry Pi.
+
+People have expressed interested in me developing this into a product they could purchase which I contemplated but became busy with other things and would like to work on more exciting projects. The code is now publically available. I have also made some modifications and cut it down quite a bit in an effort to make it more understandable - I have not uploaded these changes yet, but I will soon.
 
 
 My work utilises the fantastic work of @hzeller:
