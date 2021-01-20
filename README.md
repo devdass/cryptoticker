@@ -13,7 +13,7 @@ So far using my publicly available code, I am able to pull down live prices of m
 
 ![scrolling crypto pairs](https://github.com/devdass/cryptoticker/blob/main/4ticker.gif)
 
-The code is also able to be alterd to pull down RSS feeds from news sites and have headlines displayed at specific intervals.
+The code is also able to be altered to pull down RSS feeds from news sites and have headlines displayed at specific intervals.
 
 ![scrolling news feeds](https://github.com/devdass/cryptoticker/blob/main/news.gif)
 
